@@ -1,7 +1,7 @@
 # Glancify
 [![Gitter Room](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Glancify-Organisation/Lobby)
 
-A chrome extension for all social networks.
+A Firefox add-on for all social networks.
 
 ## Contributors
 * [Saurabh Srivastava](https://github.com/simsausaurabh)
